@@ -1,0 +1,11 @@
+this is localhost site with node.js
+
+if you want to run this on your pc..
+
+1. install node.js
+2. after install open cmd on your computer
+3. locate to folder in cmd (eg:- D://folder name/folder name)
+4. type "node server.js"(must be connect to internet)
+5. opne browser and type localhost:3000
+
+Done
